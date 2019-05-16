@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\sekiro\sekiro\bin\Debug\sekiro.exe.config
+C:\Users\LENOVO\source\repos\sekiro\sekiro\bin\Debug\sekiro.exe
+C:\Users\LENOVO\source\repos\sekiro\sekiro\bin\Debug\sekiro.pdb
+C:\Users\LENOVO\source\repos\sekiro\sekiro\bin\Debug\sekiro.xml
+C:\Users\LENOVO\source\repos\sekiro\sekiro\obj\Debug\sekiro.Form1.resources
+C:\Users\LENOVO\source\repos\sekiro\sekiro\obj\Debug\sekiro.Resources.resources
+C:\Users\LENOVO\source\repos\sekiro\sekiro\obj\Debug\sekiro.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\sekiro\sekiro\obj\Debug\sekiro.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\sekiro\sekiro\obj\Debug\sekiro.exe
+C:\Users\LENOVO\source\repos\sekiro\sekiro\obj\Debug\sekiro.xml
+C:\Users\LENOVO\source\repos\sekiro\sekiro\obj\Debug\sekiro.pdb
+C:\Users\LENOVO\source\repos\sekiro\sekiro\obj\Debug\sekiro.vbprojAssemblyReference.cache
